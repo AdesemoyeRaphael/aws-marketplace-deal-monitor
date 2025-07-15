@@ -1,7 +1,3 @@
-# [The Merchant Marketplace](https://merchantmarketplace.com/marketplace) Deal Monitor
-A serverless AWS Lambda function for monitoring and tracking new product deals on [The Merchant Marketplace](https://merchantmarketplace.com/marketplace).
-
-
 # [The Merchant Marketplace](https://merchantmarketplace.com/marketplace) Deal Monitor (Lambda Function)
 
 A serverless AWS Lambda function that monitors new deals on [The Merchant Marketplace](https://merchantmarketplace.com/marketplace) and sends real-time WhatsApp notifications using Twilio. It stores and checks previously seen deals in DynamoDB to avoid duplicates and automatically cleans up old records.
