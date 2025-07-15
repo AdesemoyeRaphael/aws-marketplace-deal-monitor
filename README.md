@@ -1,4 +1,4 @@
-# aws-marketplace-deal-monitor
+# [The Merchant Marketplace](https://merchantmarketplace.com/marketplace) Deal Monitor
 A serverless AWS Lambda function for monitoring and tracking new product deals on [The Merchant Marketplace](https://merchantmarketplace.com/marketplace).
 
 
